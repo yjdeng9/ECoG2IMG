@@ -19,7 +19,8 @@ ECoG2IMG consists of three main components:
   (1) A pre-trained ECoG encoder, Talairach coordinate alignment mask autoencoder (TA-MAE);
   (2) A representation aligner based on the probabilistic denoising diffusion model (DDPM);
   (3) An image reconstruction module that generates images from the low-dimensional representation of ECoG based on the trained model to transform brain signals into visual images.
-![image](https://github.com/user-attachments/assets/2df79a87-20aa-40a5-a20f-85ed3015aab8)
+![图片1](https://github.com/user-attachments/assets/0aa1bab1-d012-4c9e-b207-136ea693652c)
+
 
 
 # System Requirements
