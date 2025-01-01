@@ -45,7 +45,7 @@ bash script/pipline.sh
 
 # Demo
 
-The paper is currently under review. We will release the raw data and pretrained models to support the development of the field once the paper is accepted.
+The demo data has been uploaded. The full data and full demonstration process used to build the model can be found on CodeOcean when the work is published.
 
 
 # License
